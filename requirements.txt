@@ -1,0 +1,5 @@
+python==3.8
+tqdm
+requests
+bs4
+lxml
